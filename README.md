@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![App Screenshot](/narayan95/Weather-App/images/screenshot)
+![App Screenshot](/images/screenshot)
