@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![App Screenshot](/images/screenshot)
+![App Screenshot](/images/screenshot.jpg)
